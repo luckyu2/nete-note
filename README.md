@@ -3,7 +3,7 @@
 很多非常有趣，值得收藏，满足大家的收集癖！ 如果觉得有用，请分享并⭐:star:，谢谢！
 
 # 目录
-___
+
 | [📖知识区](#知识区)|
 | :-: |
 | [🎇AI工具](#AI工具)|
@@ -26,6 +26,36 @@ ___
 | [学习大语言模型](https://llmbook-zh.github.io/) |1K|1K|
 
 
+
+## 开发者相关
+| 名称 | 描述 |⭐|
+|------|------|------|
+| [codeimage](https://app.codeimage.dev/)|酷炫的代码转图片|1K|
+| [remote-working](https://github.com/greatghoul/remote-working) |收集整理远程工作相关的资料|1K|
+| [阿布的主页](https://www.abusaid.me/) |个人技能展示主页|1K|
+
+
+
+
+## 浏览器插件
+| 名称 | 描述 |⭐|
+|------|------|------|
+| [WebChat](https://github.com/molvqingtai/WebChat)|利用 WebRTC 实现端到端加密通信，支持在任何网站上与他人聊天|1K|
+
+
+
+
+
+## 工具和应用区
+| 名称 | 描述 |⭐|
+|------|------|------|
+| [excalidraw](https://excalidraw.com/) |在线画图工具，支持中文|1K|
+| [dockge](https://github.com/louislam/dockge) |Docker Compose 管理神器|1K|
+| [PairDrop](https://github.com/schlagmichdoch/PairDrop) |一个超实用的跨平台文件传输工具|1K|
+| [HandBrake](https://github.com/HandBrake/HandBrake) |一款好用的开源视频压缩软件|1K|
+
+
+____
 ### AI模型接口资源
 | 名称 | 描述 |
 |------|------|
@@ -71,33 +101,3 @@ ___
 | [MIT Technology Review](https://www.technologyreview.com/) | 麻省理工学院科技评论，提供最新的科技新闻和趋势 |
 | [Synced Global AI](https://syncedreview.com/) | 全球AI新闻和趋势平台 |
 | [a16z](https://a16z.com/) | 知名风险投资公司a16z的博客，提供AI领域的最新动态和见解 |
-
-
-
-## 开发者相关
-| 名称 | 描述 |⭐|
-|------|------|------|
-| [酷炫的代码转图片](https://app.codeimage.dev/)|1K|1K|
-| [收集整理远程工作相关的资料](https://github.com/greatghoul/remote-working) |1K|1K|
-| [个人技能展示主页](https://www.abusaid.me/) |1K|1K|
-
-
-___
-
-## 浏览器插件
-| 名称 | 描述 |⭐|
-|------|------|------|
-| [WebChat](https://github.com/molvqingtai/WebChat)|利用 WebRTC 实现端到端加密通信，支持在任何网站上与他人聊天|1K|
-
-
-
-
-
-## 工具和应用区
-| 名称 | 描述 |⭐|
-|------|------|------|
-| [excalidraw](https://excalidraw.com/) |在线画图工具，支持中文|1K|
-| [dockge](https://github.com/louislam/dockge) |Docker Compose 管理神器|1K|
-| [PairDrop](https://github.com/schlagmichdoch/PairDrop) |一个超实用的跨平台文件传输工具|1K|
-| [HandBrake](https://github.com/HandBrake/HandBrake) |一款好用的开源视频压缩软件|1K|
-
