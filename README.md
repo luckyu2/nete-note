@@ -1,6 +1,6 @@
 # 整理收集1k-10k+⭐的github开源项目
 
-很多包非常有趣，值得收藏，满足大家的收集癖！ 如果觉得有用，请分享并⭐:star:，谢谢！
+很多非常有趣，值得收藏，满足大家的收集癖！ 如果觉得有用，请分享并⭐:star:，谢谢！
 
 ___
 
@@ -10,6 +10,13 @@ ___
 | [学习大语言模型](https://llmbook-zh.github.io/) |
 | @next/third-parties |
 
+___
+
+## 🎇ComfyUI：
+|[包含了多个ComfyUI工作流的中文仓库](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Workflows-ZHO) |
+| :-: |
+| [学习大语言模型](https://llmbook-zh.github.io/) |
+| @next/third-parties |
 
 
 ___
