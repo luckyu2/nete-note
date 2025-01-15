@@ -30,10 +30,12 @@
 ## 开发者相关
 | 名称 | 描述 |⭐|
 |------|------|------|
+| [svgl](https://github.com/pheralb/svgl) |轻松免费获得数百个高质量的 SVG Logo|3.2K|
 | [codeimage](https://app.codeimage.dev/)|酷炫的代码转图片|1K|
-| [remote-working](https://github.com/greatghoul/remote-working) |收集整理远程工作相关的资料|1K|
+| [remote-working](https://github.com/greatghoul/remote-working) |收集整理远程工作相关的资料|2K|
 | [阿布的主页](https://www.abusaid.me/) |个人技能展示主页|1K|
-
+| [Awesome_APIs](https://github.com/TonnyL/Awesome_APIs/tree/master) |中文API合集|11K|
+| [public-apis]([https://github.com/TonnyL/Awesome_APIs/tree/master](https://github.com/public-apis/public-apis)) |上千个免费的公共 API 接口🔥|324K|
 
 
 
